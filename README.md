@@ -2,6 +2,10 @@
 ---
 Oui un YouTubeur Minecraft qui sait dev ça existe.
 ---
+- Apprends à perfectionner l'API Spigot.
+- Essaye de devenir Youtubeur (jure).
+---
+Cliquez :
 
 
 
