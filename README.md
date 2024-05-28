@@ -1,6 +1,6 @@
 # Yo.
 ---
-Oui un YouTubeur Minecraft qui sait dev ça existe.
+Oui un YouTubeur Minecraft BedWars qui sait dev ça existe.
 ---
 - Apprends à perfectionner l'API Spigot.
 - Essaye de devenir Youtubeur (jure).
